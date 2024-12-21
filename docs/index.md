@@ -10,7 +10,7 @@ hero:
       link: /guide/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/stackblitz/create-project-cli
+      link: https://github.com/theoheneba/Celetec-CLI-Docs
 
 features:
   - title: Multiple Templates

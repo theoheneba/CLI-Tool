@@ -1,22 +1,21 @@
-# Getting Started
+# Introduction
 
-Create Project CLI helps you bootstrap new projects with best practices built-in.
+Create Project CLI helps you bootstrap new projects with best practices built-in. It provides a collection of templates and tools to quickly start new projects with modern development standards.
 
-## Quick Start
+## Key Features
 
-```bash
-# Create a new project
-npx create-project-cli@latest my-app
+- 🚀 Multiple project templates (React, Vue, Next.js, Express)
+- ⚡️ Lightning fast project creation
+- 🔧 Customizable templates
+- 📦 Automatic dependency installation
+- 🔄 Git initialization
+- 🎯 TypeScript support
+- 🧪 Testing setup included
+- 🎨 Linting and formatting configured
 
-# Select a template
-# Follow the prompts
-```
+## Why Use Create Project CLI?
 
-## Available Templates
-
-- React (with Vite)
-- Vue.js
-- Next.js
-- Express + TypeScript
-- Node.js API
-- CLI Tool
+- **Save Time**: Start new projects in seconds instead of hours
+- **Best Practices**: Templates follow modern development standards
+- **Consistency**: Maintain consistent project structure across your team
+- **Flexibility**: Customize templates to match your needs
