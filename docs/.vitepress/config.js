@@ -3,13 +3,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Create Project CLI",
   description: "A flexible project scaffolding tool",
+  base: '/Celetec-CLI-Docs/',
   
   themeConfig: {
     nav: [
       { text: 'Guide', link: '/guide/' },
       { text: 'Templates', link: '/templates/' },
       { text: 'Configuration', link: '/config/' },
-      { text: 'GitHub', link: 'https://github.com/stackblitz/create-project-cli' }
+      { text: 'GitHub', link: 'https://github.com/theoheneba/Celetec-CLI-Docs' }
     ],
 
     sidebar: [
