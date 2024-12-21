@@ -19,4 +19,6 @@ features:
     details: Each template follows modern development standards
   - title: Customizable
     details: Configure your project with custom templates and options
+  - title: Fast Development
+    details: Quick setup with automatic dependency installation
 ---

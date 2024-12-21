@@ -31,8 +31,7 @@ export default defineConfig({
           { text: 'Next.js', link: '/templates/nextjs' },
           { text: 'Express', link: '/templates/express' },
           { text: 'Node API', link: '/templates/node-api' },
-          { text: 'CLI Tool', link: '/templates/cli' },
-          { text: 'Customization', link: '/templates/customization' }
+          { text: 'CLI Tool', link: '/templates/cli' }
         ]
       },
       {

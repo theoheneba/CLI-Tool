@@ -44,5 +44,3 @@ npm link # Makes the CLI available globally during development
 - Follow existing code style
 - Add JSDoc comments for functions
 - Keep files small and focused
-
-All The best
