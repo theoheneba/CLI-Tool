@@ -14,7 +14,14 @@ export function validateProjectName(name) {
   return true;
 }
 
-export function validateProjectPath(path) {
-  // Add path validation logic here
+export function validateProjectConfig(config) {
+  const { name, type } = config;
+  
+  validateProjectName(name);
+  
+  if (!type) {
+    throw new Error('Project type is required');
+  }
+  
   return true;
 }

@@ -2,11 +2,10 @@
 node_modules
 package-lock.json
 
-# Build outputs
+# Build
 dist
+build
 .vitepress/dist
-docs/.vitepress/dist
-docs/.vitepress/cache
 
 # Environment
 .env
@@ -15,15 +14,21 @@ docs/.vitepress/cache
 # Editor
 .vscode
 .idea
-.bolt
+*.swp
+*.swo
 
-# System
+# OS
 .DS_Store
-*.log
+Thumbs.db
 
-# Example/Demo apps
-trackerapp/
-examples/
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Test files
-tests/temp-*
+# Testing
+coverage
+
+# Project specific
+.bolt
+trackerapp

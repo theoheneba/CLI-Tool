@@ -14,6 +14,9 @@
   "bin": {
     "create-project": "./src/cli.js"
   },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "dependencies": {
     "commander": "^11.0.0",
     "inquirer": "^9.2.7",
