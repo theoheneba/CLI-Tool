@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# Build outputs
+dist
+.vitepress/dist
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# Environment
+.env
+.env.*
+
+# Editor
+.vscode
+.idea
+.bolt
+
+# System
+.DS_Store
+*.log
+
+# Example/Demo apps
+trackerapp/
+examples/
+
+# Test files
+tests/temp-*
